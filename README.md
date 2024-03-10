@@ -16,9 +16,9 @@ It contains information about customers, including demographic data, usage patte
 
 1. Clone the repository: https://github.com/sasidhar-18/Telecom_churn.git
 
-2. Run the application: python app1.py
+2. Install dependencies if needed from reqirements.txt
 
-3. Install dependencies if needed
+3.Run the application: python app1.py
 
 4. Open your web browser and go to `http://localhost:5000` to access the web application.
 
